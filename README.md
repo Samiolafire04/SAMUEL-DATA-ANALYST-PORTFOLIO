@@ -43,16 +43,6 @@ Data in web development, Graphic design, Business Finance, and Musical Instrumen
 
 The analysis seeks to enable us to understand the subject with which more courses should be created, know the total number of subscribers in each subject, how the average content duration, price, and the number of students vary across different subjects, The number of free-to-paid courses for each subject, the average price of web development courses at a different level, the subject with the Top 20 most popular courses, and if content duration impacts the price of the courses.
 
-THE DESIGN
-
-I was provided with Raw Udemy datasets and was able to clean the data using Filtering and Sorting, Find and Replace, conditional formatting, etc on Google Sheets. Thereafter, I proceeded to analyze the data while using Descriptive statistics to determine the Mean, Median, Minimum, and Maximum of the data, as well as Pivot tables to quickly extract the data in a more preferred dashboard. I also use the Vlookup function to look for specific data vertically across the spreadsheet.
-
-To visualize the data in order to resolve some specific problems, I use Tableau to create meaningful Visuals, Dashboards, and Insights into the Data which were also included in the report. Tableau is best suited to managing large data sets and can provide a more detailed analysis.
-
-# FINDINDS
-
-
-
 I was also able to answer the 5 why questions as below;
 
 Why are the number of subscribers and price of Musical Instrument courses low?
@@ -61,7 +51,13 @@ Why?  - Students or subscribers prefer to subscribe or take Web development cour
 Why? - Web Development courses are most sought after in the world today
 Why? - Students skilled or certified in Web development tend to be more employed than those skilled or certified in Musical instrument courses.
 
+# THE DESIGN
 
+I was provided with Raw Udemy datasets and was able to clean the data using Filtering and Sorting, Find and Replace, conditional formatting, etc on Google Sheets. Thereafter, I proceeded to analyze the data while using Descriptive statistics to determine the Mean, Median, Minimum, and Maximum of the data, as well as Pivot tables to quickly extract the data in a more preferred dashboard. I also use the Vlookup function to look for specific data vertically across the spreadsheet.
 
+To visualize the data in order to resolve some specific problems, I use Tableau to create meaningful Visuals, Dashboards, and Insights into the Data which were also included in the report. Tableau is best suited to managing large data sets and can provide a more detailed analysis.
 
-# 
+# THE FINDINGS
+
+![Sheet 1 (5)](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/b4039ea2-bd76-4973-bc5d-0d3aaddcffc7)
+
