@@ -59,5 +59,33 @@ To visualize the data in order to resolve some specific problems, I use Tableau 
 
 # THE FINDINGS
 
-![Sheet 1 (5)](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/b4039ea2-bd76-4973-bc5d-0d3aaddcffc7)
+Figure 1: Total number of subscribers for each Subject
+
+![Total Subscribers (1)](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/e2bf5460-b565-49b7-b7a4-05a607494d0b)
+
+Figure 2: Free and Paid Courses For Each Subject
+
+![Free and Paid vs Subject](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/f3c4dec5-01b5-467d-b713-e014c72d182b)
+
+Table 2: Free and Paid Courses for Each Subject
+
+![countof](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/4f396360-3c5c-4ef8-a45d-d3c45c80a9ce)
+
+Table 3: The Average Price of Web Development and Musical Instruments Course at Different Levels
+
+![web dev levels](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/1cb0429e-2a7c-4e23-85c1-63adfff203fa)
+
+Figure 3: The average content duration against the subjects showing different levels (Tableau)
+
+![Sheet 4 (2)](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/68461b70-da1c-4826-b773-271439403b39)
+
+Table 4: The average number of subscribers for each subject (Tableau)
+
+![Sheet 1 (4)](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/20fa4c50-f14d-473f-95a0-c783018d1f14)
+
+Figure  5: How content duration does impact the price of the course
+
+
+
+
 
