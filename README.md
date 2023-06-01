@@ -51,35 +51,28 @@ To visualize the data in order to resolve some specific problems, I use Tableau 
 
 # THE FINDINGS
 
-Figure 1: Total number of subscribers for each Subject
-
+**Figure 1**: Total number of subscribers for each Subject
 ![Total Subscribers (1)](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/e2bf5460-b565-49b7-b7a4-05a607494d0b)
 
-Figure 2: Free and Paid Courses For Each Subject
-
+**Figure 2**: Free and Paid Courses For Each Subject
 ![Free and Paid vs Subject](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/f3c4dec5-01b5-467d-b713-e014c72d182b)
 
-Table 2: Free and Paid Courses for Each Subject
-
+**Table 2**: Free and Paid Courses for Each Subject
 ![countof](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/4f396360-3c5c-4ef8-a45d-d3c45c80a9ce)
 
-Table 3: The Average Price of Web Development and Musical Instruments Course at Different Levels
-
+**Table 3**: The Average Price of Web Development and Musical Instruments Course at Different Levels
 ![web dev levels](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/1cb0429e-2a7c-4e23-85c1-63adfff203fa)
 
-Figure 3: The average content duration against the subjects showing different levels (Tableau)
-
+**Figure 3**: The average content duration against the subjects showing different levels (Tableau)
 ![Sheet 4 (2)](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/68461b70-da1c-4826-b773-271439403b39)
 
-Table 4: The average number of subscribers for each subject (Tableau)
-
+**Table 4**: The average number of subscribers for each subject (Tableau)
 ![Sheet 1 (4)](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/20fa4c50-f14d-473f-95a0-c783018d1f14)
 
-Figure  5: How content duration does impact the price of the course
-
+**Figure  5**: How content duration does impact the price of the course
 ![Content Duration vs  Price (1)](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/488fc0f5-702f-4990-9c42-d708e853096b)
 
-Table 5:  The average content duration/price/number of students across the Four subjects
+**Table 5**:  The average content duration/price/number of students across the Four subjects
 ![Average across data](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/db3539fd-c259-4e4e-80a3-e53e57515b0e)
 
 # IMPORTANT FINDINDS
@@ -143,7 +136,7 @@ To visualize the data in order to resolve some specific problems, I use Tableau 
 
 # FINDINGS
 
-Figure 1: Showing the most popular brands of Laptops
+**Figure 1**: Showing the most popular brands of Laptops
 ![Laptop by Popularity (1)](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/299a4666-9d39-4f87-b936-b2753b2510b9)
 
 ![Sheet 1 (2)](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/29eaea37-86e0-4b6a-a40a-cfe2ed684333)
@@ -151,25 +144,26 @@ Figure 1: Showing the most popular brands of Laptops
 **Figure 2**: Showing the average price of each laptop’s brand
 ![Sheet 3](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/a6f3ead7-d304-4c10-9d25-e48a8cc11b9b)
 
-Figure 3: Showing how the average number of ratings affects the ratings of each laptop 
+**Figure 3**: Showing how the average number of ratings affects the ratings of each laptop 
 ![Sheet 8](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/d6121e3b-cae4-4c6b-b2ba-c3cb3485b217)
 
-Table 1: Showing the Average Price of the Operating system for each of the Laptops
+**Table 1**: Showing the Average Price of the Operating system for each of the Laptops
 ![avg](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/586eb1c9-2191-4062-bb24-25701094f610)
 
-Figure 4: Showing the Total number of Ratings and Ratings of each of the laptop.
+**Figure 4**: Showing the Total number of Ratings and Ratings of each of the laptop.
 ![Sheet 2 (2)](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/50dddddb-02c6-4377-86eb-27697e3fa4d0)
 
-Figure 5: Showing the average Prize of the RAM for each of the Laptops
+**Figure 5**: Showing the average Prize of the RAM for each of the Laptops
 ![Sheet 7](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/a45b4ce3-34fb-4fa1-b132-bfd6a28fff45)
 
-Table 2: Showing how the Average Manufacturer’s suggested price (MRP) affects the current price (Price) of the laptops 
+**Table 2**: Showing how the Average Manufacturer’s suggested price (MRP) affects the current price (Price) of the laptops 
+
 ![mrp vs price](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/b227d4fb-c271-443a-9c60-faa2021eb82c)
 
-Figure 6: The average Prize for the RAM size of each Laptop
+**Figure 6**: The average Prize for the RAM size of each Laptop
 ![Sheet 6 (3)](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/70af3713-e4d6-4317-8604-2bcc68341e3e)
 
-Figure 7: The Average Price for the Memory size of each the Laptop
+**Figure 7**: The Average Price for the Memory size of each the Laptop
 ![Sheet 7 (1)](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/0164723e-37cd-4449-b8c2-078ca0b787be)
 
 # IMPORTANT FINDINGS
@@ -220,6 +214,26 @@ Understanding the variation in pricing of laptops, number of ratings, sizes, rev
 Identifying which brand of laptops consumers are majorly interested in.
 Exploring the factors that influence customers’ buying decisions such as price, brand reputation, or technical specifications.
 Comparing the performance of different laptops based on their specifications and features.
+
+
+# APPENDIX
+
+Google Sheets Data Set For Udemy
+https://docs.google.com/spreadsheets/d/1pcg5eoUQh47VVKPNUawu9Cv63zG50POIY4Wpjm1gwTA/edit#gid=20565068
+
+Tableau Visualizations For Laptop Information
+https://public.tableau.com/authoring/LaptopInformationVisualizationProject/Dashboard2#2 
+
+Tableau Visualization For Udemy Data Set
+[Edit | MY UDEMY DATASET VIZ (tableau.com)](https://public.tableau.com/authoring/MYUDEMYDATASETVIZ/Dashboard1#1)
+
+Google Sheets for Laptop Information
+[My Laptop Information Capstone Project - Google Sheets: ](https://docs.google.com/spreadsheets/d/1QfTkZXE5b4RsShNS_ud6-zvFhNjXSbMfI4BrszO9Whc/edit#gid=376903456)
+
+Kaggle Data Sets
+[Laptop League: A Comprehensive Dataset for Laptops | Kaggle](https://www.kaggle.com/datasets/shrutiambekar/laptop-league-a-comprehensive-dataset-for-laptops)
+
+
 
 
 
