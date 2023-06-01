@@ -222,7 +222,7 @@ Google Sheets Data Set For Udemy
 https://docs.google.com/spreadsheets/d/1pcg5eoUQh47VVKPNUawu9Cv63zG50POIY4Wpjm1gwTA/edit#gid=20565068
 
 Tableau Visualizations For Laptop Information
-https://public.tableau.com/authoring/LaptopInformationVisualizationProject/Dashboard2#2 
+Edit | Laptop Information Visualization Project (tableau.com): https://public.tableau.com/authoring/LaptopInformationVisualizationProject/Dashboard2#2 
 
 Tableau Visualization For Udemy Data Set
 [Edit | MY UDEMY DATASET VIZ (tableau.com)](https://public.tableau.com/authoring/MYUDEMYDATASETVIZ/Dashboard1#1)
