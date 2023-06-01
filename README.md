@@ -85,6 +85,14 @@ Table 4: The average number of subscribers for each subject (Tableau)
 
 Figure  5: How content duration does impact the price of the course
 
+![Content Duration vs  Price (1)](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/488fc0f5-702f-4990-9c42-d708e853096b)
+
+Table 5:  The average content duration/price/number of students across the Four subjects
+![Average across data](https://github.com/Samiolafire04/SAMUEL-DATA-ANALYST-PORTFOLIO/assets/87617278/db3539fd-c259-4e4e-80a3-e53e57515b0e)
+
+
+
+
 
 
 
